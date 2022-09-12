@@ -1,13 +1,13 @@
 {
-    "display_name": "",
-    "command": "",
-    "dependencies": [],
+    "display_name": "Basic utilities",
+    "command": "generate",
+    "dependencies": ["numpy", "pandas", "matplotlib", "scikit-learn"],
 
-    "keywords": [],
+    "keywords": ["utilities", "colors", "color"],
     "methodology": [],
     "topic": [],
 
-    "description": "",
-    "author": "",
-    "author_email": ""
+    "description": "A basic utilities template for usage in the init templates.",
+    "author": "Vittor Faria Pereira and Daniel Wang",
+    "author_email": "daniel.wang@oliverwyman.com"
 }
